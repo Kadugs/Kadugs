@@ -1,4 +1,4 @@
-### Hello World, I'm Carlos Eduardo!
+<h2 align="center">Hello World, I'm Carlos Eduardo!</h2>
 
 I'm from Minas Gerais, Brazil, I'm a computer science student at 
 Federal University of Juiz de Fora
