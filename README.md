@@ -3,7 +3,7 @@
 I'm from Minas Gerais, Brazil, I'm a computer science student at 
 Federal University of Juiz de Fora
 
-- 🌱 I’m currently learning backend architecture.
+- 🌱 I’m currently learning object-oriented programming.
 <div align="center">
  <h3><strong>🛠️ Languages and tools:</strong></h3>
 <img margin="12px" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
